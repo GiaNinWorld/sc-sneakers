@@ -1,2 +1,2 @@
 # sc-sneakers
-site de tênis
+Trabalho frontend
